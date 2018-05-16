@@ -7,5 +7,7 @@ public class Zadanie1 {
         System.out.println("commitowania");
         System.out.println("i");
         System.out.println("pushowania");
+        System.out.println("Data:");
+        System.out.println("2018-05-16");
     }
 }
