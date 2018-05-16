@@ -9,5 +9,7 @@ public class Zadanie1 {
         System.out.println("pushowania");
         System.out.println("Data:");
         System.out.println("2018-05-16");
+        System.out.println("Autor:");
+        System.out.println("Ewelina");
     }
 }
